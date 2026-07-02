@@ -291,3 +291,6 @@ harness/**/ruvector.db
 # ruvector runtime/hook DB — never tracked (any depth)
 ruvector.db
 **/ruvector.db
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
